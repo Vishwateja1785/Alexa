@@ -4,7 +4,6 @@ import pywhatkit
 import datetime
 import wikipedia
 import pyjokes
-import PyPDF2
 import os
 import webbrowser
 import sys
