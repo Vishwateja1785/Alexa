@@ -4,6 +4,6 @@
 # Installation
  To Read text (Text to speech): pip install pyaudio and pip install pyttsx3.
     
-  If pip install pyaudio is not working then refer below:
+  If pip install pyaudio is not working then refer:
   https://stackoverflow.com/a/55630212/14100718
       
